@@ -1,6 +1,6 @@
 # Twitter_review_Sentiment_Analysis
 
-Apply the logistic regression classification algorithm using scikit-learn and Python to classify Restaurant reviews as either postive or negative.
+Apply the logistic regression classification algorithm using scikit-learn and Python to classify Twitter reviews as either postive or negative.
 
 ## Objective :
 
